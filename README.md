@@ -11,8 +11,8 @@ They were sold as "QC3.0 A pple Hua wei MTK Sam sung DIY Fast Charger DC 5-32V 2
 
 ## Versions
 It looks like there are (at least) 2 versions of the same module:
-1)heatsink fixed with adhesive tape, marking "V1872" on backside of PCB, heatshrink around the inductor
-2)heatsink glued on with silicone, marking "HW-366A/B" on topside of PCB, no heatshrink
+1) heatsink fixed with adhesive tape, marking "V1872" on backside of PCB, heatshrink around the inductor
+2) heatsink glued on with silicone, marking "HW-366A/B" on topside of PCB, no heatshrink
 
 The components look identical (although i did not check the values, especially of the MLCC and the inductor), except for the marking and manufacturer logo of the diode (inside the red circle on schematic below) near the USB-A connector:
 1) marking "BE", logo might be Vishay??
