@@ -89,5 +89,5 @@ I did some measurements with the following setup:
 #### Current measurement
 I have to say i am quite impressed, the overall error is less than 2%! And because of the small shunt value the voltage drop on the output is negligeable (25mV max).
 
-#### Efficency
+#### Efficiency
 It's not bad either, especially considering that i measured the output voltage on the end of a (short and thick, custom made) USB cable, so the voltage drop from the connector is included in the values above.
