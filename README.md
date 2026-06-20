@@ -43,7 +43,7 @@ I am afraid my camera did a really poor job with the picture, but i only have th
 Because of the small value of the shunt i used a dedicated high side current measurement IC, the INA210. It is supplied with 5V in my setup and does multiply the small voltage from the shunt by 200. This means that the measurement range (with Vcc=5V, the INA210 can go much higher but the output will be feed into an ADC later) is 0-2,5A which is fine for me.
 
 ### Removing the MOSFET circuitry
-As i don't really see the point of it and it increases losses due to the internal resistance of the MOSFET i just removed all this circuitry. Obviously you have to solder the GND wire of the supply voltage where the drain of the MOSFET was. I also removed the polyfuse as my power supply has a protection, otherwise you should keep it.
+As i don't really see the point of it and it increases losses due to the internal resistance of the MOSFET i just removed all this circuitry. Obviously you have to solder the GND wire of the supply voltage where the source of the MOSFET was. I also removed the polyfuse as my power supply has a protection, otherwise you should keep it.
 ![picture of modded board](/images/finished.jpg)
 
 ## Measurements
